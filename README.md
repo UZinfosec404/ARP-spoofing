@@ -75,3 +75,10 @@ ARP spoofing hujumlaridan himoyalanish uchun:
 - Xavfsiz tarmoq konfiguratsiyalari
 
 qo‘llaniladi.
+
+---
+
+## Dasturni ishga tushurish 
+```bash
+sudo python3 arp_spoofing.py
+```
