@@ -96,3 +96,11 @@ Menda target sifatida windows 10 ishlatdim.Dasturni ishga tushurganimdan keyin w
 Routerning MAC manzili attack kampyuterimning MAC manziliga o'zgardi
 
 ![Banner](image/image2.png)
+
+Keyingi qiladigan ishim windowsdagi hamma packetlarni tutib olish bo'ldi.Namuna sifatida oddiy ping so'rovini yubordim.
+
+![Banner](image/image4.png)
+
+Kali linux da wireshark dasturi orqali packetlarni yozib oldim
+
+![Banner](image/image3.png)
