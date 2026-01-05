@@ -82,3 +82,4 @@ qo‘llaniladi.
 ```bash
 sudo python3 arp_spoofing.py
 ```
+![Banner](image/image.png)
