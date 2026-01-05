@@ -32,49 +32,33 @@ Tarmoq xavfsizligi bo‘yicha ta’limiy va laboratoriya tajribalari uchun mo‘
 
 🔹 Man‑in‑the‑Middle (MITM) tushunchasi
 
-Ikki qurilma o‘rtasidagi trafik qanday qilib uchinchi nuqta orqali o‘tishini tushuntiradi
+- Ikki qurilma o‘rtasidagi trafik qanday qilib uchinchi nuqta orqali o‘tishini tushuntiradi
 
-Tarmoq ishonchliligi nima sababdan muhimligini ko‘rsatadi
+- Tarmoq ishonchliligi nima sababdan muhimligini ko‘rsatadi
 
 🔹 Tarmoq trafikini kuzatish (Monitoring)
 
-Tarmoqda ma’lumotlar qanday oqishini tahlil qilishga yordam beradi
+- Tarmoqda ma’lumotlar qanday oqishini tahlil qilishga yordam beradi
 
-Xavfsizlik choralarining samaradorligini baholash uchun ishlatiladi
+- Xavfsizlik choralarining samaradorligini baholash uchun ishlatiladi
 
 🔹 Test va Debug muhitlari
 
-Network administratorlar va talabalar uchun test ssenariylarini yaratish imkonini beradi
+- Network administratorlar va talabalar uchun test ssenariylarini yaratish imkonini beradi
 
-Tarmoq konfiguratsiyalaridagi xatolarni aniqlashga yordam beradi
+- Tarmoq konfiguratsiyalaridagi xatolarni aniqlashga yordam beradi
 
 🔹 Ta’limiy foydalanish
 
-ARP spoofing hujumlari qanday ishlashini nazariy jihatdan tushuntirish
+- ARP spoofing hujumlari qanday ishlashini nazariy jihatdan tushuntirish
 
-Ulardan qanday himoyalanish kerakligini o‘rganish uchun asos yaratadi
+- Ulardan qanday himoyalanish kerakligini o‘rganish uchun asos yaratadi
 
 ---
 
-## Xavfsizlik va Etika
-
-Bu loyiha:
-
-Ethical hacking
-
-Network security testing
-
-Ta’limiy maqsadlar
-
-uchun mo‘ljallangan.
-
-❗ Ruxsatsiz tarmoqlarda foydalanish:
-
-noqonuniy
-
-axloqiy jihatdan noto‘g‘ri
-
-jiddiy huquqiy oqibatlarga olib kelishi mumkin
+## Xavfsizlik bo'yicha ogohlantirish 
+DIQQAT: Ushbu dastur faqat ta'lim va kiberxavfsizlikni o'rganish maqsadida yaratilgan. 
+Uni ruxsat berilmagan tarmoqlarda ishlatish noqonuniy hisoblanadi va javobgarlikka sabab bo'lishi mumkin.
 
 ---
 
@@ -82,12 +66,12 @@ jiddiy huquqiy oqibatlarga olib kelishi mumkin
 
 ARP spoofing hujumlaridan himoyalanish uchun:
 
-ARP monitoring va detection vositalari
+- ARP monitoring va detection vositalari
 
-Tarmoqni to‘g‘ri segmentatsiya qilish
+- Tarmoqni to‘g‘ri segmentatsiya qilish
 
-Shifrlangan protokollar (HTTPS, SSH va boshqalar)
+- Shifrlangan protokollar (HTTPS, SSH va boshqalar)
 
-Xavfsiz tarmoq konfiguratsiyalari
+- Xavfsiz tarmoq konfiguratsiyalari
 
 qo‘llaniladi.
