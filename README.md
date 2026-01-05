@@ -87,8 +87,12 @@ sudo python3 arp_spoofing.py
 
 
 attack_ip_address = 10.0.2.5
+
 target_ip_address = 10.0.2.4
+
 router_ip_address = 10.0.2.1
+
 Menda target sifatida windows 10 ishlatdim.Dasturni ishga tushurganimdan keyin windowsning ARP javdali rasmdagidek o'zgardi.
 Routerning MAC manzili attack kampyuterimning MAC manziliga o'zgardi
+
 ![Banner](image/image2.png)
