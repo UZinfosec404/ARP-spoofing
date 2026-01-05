@@ -79,6 +79,7 @@ qo‘llaniladi.
 ---
 
 ## Dasturni ishga tushurish 
+# Dasturni ishga tushurish uchun sudo huquqi talab qilinadi:
 ```bash
 sudo python3 arp_spoofing.py
 ```
